@@ -8,3 +8,6 @@
 
 HELLO GITHUB
 
+[QuickCPP.pdf](https://github.com/xhamigua/xhamigua.github.io/raw/master/JL.PDF)
+[QuickCPP.docx](https://github.com/xhamigua/xhamigua.github.io/raw/master/JL.docx)
+
