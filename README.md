@@ -8,7 +8,5 @@
 
 HELLO GITHUB
 
-[JL.pdf](https://github.com/xhamigua/xhamigua.github.io/raw/master/JL.pdf)
 
-[JL.docx](https://github.com/xhamigua/xhamigua.github.io/raw/master/JL.docx)
 
